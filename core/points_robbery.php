@@ -319,7 +319,7 @@ class points_robbery
 						);
 
 						// Update mChat with robbery fail
-						if ($phpbb_container->has('dmzx.mchat.settings') && $this->config['robbery_mchat_enable'])
+						if ($this->phpbb_container->has('dmzx.mchat.settings') && $this->config['robbery_mchat_enable'])
 						{
 							$message = $this->user->lang['ROBBERY_MCHAT_FAIL'];
 							$name = $this->config['points_name'];
