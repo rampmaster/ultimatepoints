@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "The Ultimate Points is an addition to your phpBB3 forum, where people can gain points and also are able to spend points, of course.",
 	"homepage": "https://www.dmzx-web.net",
-	"version": "1.2.1",
-	"time": "2018-07-04",
+	"version": "1.2.3",
+	"time": "2018-05-30",
 	"keywords": [
 		"phpbb",
 		"extension",
